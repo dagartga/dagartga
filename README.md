@@ -29,7 +29,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 
 ## Github Projects
 
-#### Data Science Portfolio Website
+### Data Science Portfolio Website
 
 - #### [Homepage](https://dagartga.github.io/)
     - My main portfolio website that contains the following data science projects
@@ -48,13 +48,13 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
  
 #### Streamlit Apps
 
-- #### [Parkinsons Severity Prediction](https://boosted-models-for-parkinsons-prediction.streamlit.app/)
-      - Boosted Tree models for predicting the maximum severity of Parkinsons for clinical patients based on their protein and peptide mass spectrometry quantities.
-      - Explainable results using Feature Importance for each patient and a description of the top proteins.
+#### [Parkinsons Severity Prediction](https://boosted-models-for-parkinsons-prediction.streamlit.app/)
+- Boosted Tree models for predicting the maximum severity of Parkinsons for clinical patients based on their protein and peptide mass spectrometry quantities.
+- Explainable results using Feature Importance for each patient and a description of the top proteins.
   
-- #### [Salifort Motors Employee Retention Prediction](https://salifort-motors-employee-retention.streamlit.app/)
-     - Uses an XGBoost Classifier to predict how likely an employee will leave based on the HR data.
-     - Provides SHAP values to explain the probability score assigned to the employee.
+#### [Salifort Motors Employee Retention Prediction](https://salifort-motors-employee-retention.streamlit.app/)
+- Uses an XGBoost Classifier to predict how likely an employee will leave based on the HR data.
+- Provides SHAP values to explain the probability score assigned to the employee.
 
 
 <!--
