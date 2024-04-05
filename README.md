@@ -46,7 +46,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 - #### [UK Bank Customer Demographics Tableau Dashboard*](https://dagartga.github.io/2024/03/06/uk-bank-customer-analysis-with-tableau.html)
     - Created a dashboard for targeted marketing campaigns based on bank customer demographics.
  
-#### Streamlit Apps
+### Streamlit Apps
 
 #### [Parkinsons Severity Prediction](https://boosted-models-for-parkinsons-prediction.streamlit.app/)
 - Boosted Tree models for predicting the maximum severity of Parkinsons for clinical patients based on their protein and peptide mass spectrometry quantities.
