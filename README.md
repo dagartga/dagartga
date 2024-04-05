@@ -5,12 +5,19 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 ### Technical Skills
 
 **Programming:** Python, SQL
+
 **Tools & Technologies:** Git, Linux, AWS, Databricks
+
 **Data Manipulation & Analysis:** Pandas, Numpy, Statsmodels, SciPy
+
 **Visualization:** Tableau, Seaborn, Matplotlib
+
 **Machine Learning & Deep Learning:** PySpark, SparkSQL, TensorFlow, XGBoost
+
 **Statistical Analysis:** A/B Testing, Regression (Linear, Logistic), Classification, Clustering, PCA, Forecasting, Anomaly Detection
+
 **Model Interpretation:** SHAP, Interpretability Techniques
+
 **Model Deployment:** Docker, Flask, Streamlit
 
 ### Soft Skills
