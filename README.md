@@ -43,7 +43,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
     - Predicted customer behavior using historical music sales data, achieving high accuracy through feature space compression and Random Forest.
 - #### [The "You Are What You Eat" Customer Segmentation](https://dagartga.github.io/2024/03/05/customer-segmentation.html)
     - Segmented customers for a grocery chain to provide marketing insights based on dietary preferences.
-- #### [UK Bank Customer Demographics Tableau Dashboard*](https://dagartga.github.io/2024/03/06/uk-bank-customer-analysis-with-tableau.html)
+- #### [UK Bank Customer Demographics Tableau Dashboard](https://dagartga.github.io/2024/03/06/uk-bank-customer-analysis-with-tableau.html)
     - Created a dashboard for targeted marketing campaigns based on bank customer demographics.
  
 ### Streamlit Apps
