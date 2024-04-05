@@ -30,7 +30,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 ## Github Projects
 
 #### [Data Science Portfolio Website](https://dagartga.github.io/)
-My main portfolio website that contains the following data science projects plus more...
+**My main portfolio website that contains the following data science projects:**
 
 - #### [Quantifying Sales Uplift with Causal Impact Analysis](https://dagartga.github.io/2024/03/10/causal-impact.html)
     - Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a 41.1% uplift in sales.
