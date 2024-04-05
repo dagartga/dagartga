@@ -35,8 +35,6 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 - Idea Generation
 
 <br>
-<br>
-___
 
 ### Projects
 
