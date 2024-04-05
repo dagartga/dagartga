@@ -31,20 +31,20 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 
 ### Data Science Portfolio Website
 
-- #### [Homepage](https://dagartga.github.io/)
-    - My main portfolio website that contains the following data science projects
-- #### [Quantifying Sales Uplift with Causal Impact Analysis](https://dagartga.github.io/2024/03/10/causal-impact.html)
-    - Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a 41.1% uplift in sales.
-- #### [Web App for Parkinson's Prediction using Boosted Models](https://dagartga.github.io/2024/03/21/parkinsons-classification.html)
-    - Developed a predictive model for Parkinson's severity using boosted tree models with feature engineering, resulting in significant improvement in F1 score and recall.
-- #### [Understanding Alcohol Product Relationships Using Association Rule Learning](https://dagartga.github.io/2024/03/08/association-rule-learning.html)
-    - Analyzed customer buying patterns to uncover product relationships in alcohol retail, revealing insights about customer preferences.
-- #### [Compressing Feature Space For Classification Using PCA](https://dagartga.github.io/2024/03/07/pca.html)
-    - Predicted customer behavior using historical music sales data, achieving high accuracy through feature space compression and Random Forest.
-- #### [The "You Are What You Eat" Customer Segmentation](https://dagartga.github.io/2024/03/05/customer-segmentation.html)
-    - Segmented customers for a grocery chain to provide marketing insights based on dietary preferences.
-- #### [UK Bank Customer Demographics Tableau Dashboard](https://dagartga.github.io/2024/03/06/uk-bank-customer-analysis-with-tableau.html)
-    - Created a dashboard for targeted marketing campaigns based on bank customer demographics.
+#### [Homepage](https://dagartga.github.io/)
+- My main portfolio website that contains the following data science projects
+#### [Quantifying Sales Uplift with Causal Impact Analysis](https://dagartga.github.io/2024/03/10/causal-impact.html)
+- Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a 41.1% uplift in sales.
+#### [Web App for Parkinson's Prediction using Boosted Models](https://dagartga.github.io/2024/03/21/parkinsons-classification.html)
+- Developed a predictive model for Parkinson's severity using boosted tree models with feature engineering, resulting in significant improvement in F1 score and recall.
+#### [Understanding Alcohol Product Relationships Using Association Rule Learning](https://dagartga.github.io/2024/03/08/association-rule-learning.html)
+- Analyzed customer buying patterns to uncover product relationships in alcohol retail, revealing insights about customer preferences.
+#### [Compressing Feature Space For Classification Using PCA](https://dagartga.github.io/2024/03/07/pca.html)
+- Predicted customer behavior using historical music sales data, achieving high accuracy through feature space compression and Random Forest.
+#### [The "You Are What You Eat" Customer Segmentation](https://dagartga.github.io/2024/03/05/customer-segmentation.html)
+- Segmented customers for a grocery chain to provide marketing insights based on dietary preferences.
+#### [UK Bank Customer Demographics Tableau Dashboard](https://dagartga.github.io/2024/03/06/uk-bank-customer-analysis-with-tableau.html)
+- Created a dashboard for targeted marketing campaigns based on bank customer demographics.
  
 ### Streamlit Apps
 
