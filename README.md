@@ -20,6 +20,8 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 
 **Model Deployment:** Docker, Flask, Streamlit
 
+<br>
+
 ### Soft Skills
 - Research
 - Communication
@@ -31,6 +33,10 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 - Presentation
 - Project Delivery
 - Idea Generation
+
+<br>
+<br>
+___
 
 ### Projects
 
