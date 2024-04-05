@@ -23,20 +23,11 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 <br>
 
 ### Soft Skills
-- Research
-- Communication
-- Accountability
-- Initiative
-- Collaboration
-- Critical Thinking
-- Passion
-- Presentation
-- Project Delivery
-- Idea Generation
+Research, Communication, Accountability, Initiative, Collaboration, Critical Thinking, Passion, Presentation, Project Delivery, Idea Generation
 
 <br>
 
-### Projects
+## Projects
 
 #### [Data Science Portfolio Website](https://dagartga.github.io/)
 
