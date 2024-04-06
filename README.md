@@ -56,6 +56,10 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 - Uses an XGBoost Classifier to predict how likely an employee will leave based on the HR data.
 - Provides SHAP values to explain the probability score assigned to the employee.
 
+### Deep Learning Project
+
+#### [Transfer Learning for X-Ray Image Classification](https://github.com/dagartga/Transfer_Learning_X-Ray_Classification)
+
 
 <!--
 **dagartga/dagartga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
