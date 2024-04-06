@@ -60,6 +60,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 
 #### [Transfer Learning for X-Ray Image Classification](https://github.com/dagartga/Transfer_Learning_X-Ray_Classification)
 - Used **DenseNet-201** pre-trained neural network and fine-tuned **one hidden layer** with 4096 nodes and 30% dropout for regularization.
+- Solved imbalanced target distribution using class weights to the parameters for the neural network.
 - Applied hyperparameter tuning of # of hidden layers, nodes, learning rate, batch size, learning rate decay, and momentum to find optimal values.
 - Final Test Statistics:
     - **AUC:** 0.990
