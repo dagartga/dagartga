@@ -34,7 +34,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 #### [Homepage](https://dagartga.github.io/)
 - My main portfolio website that contains the following data science projects
 #### [Quantifying Sales Uplift with Causal Impact Analysis](https://dagartga.github.io/2024/03/10/causal-impact.html)
-- Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a 41.1% uplift in sales.
+- Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a **41.1% uplift in sales**.
 #### [Web App for Parkinson's Prediction using Boosted Models](https://dagartga.github.io/2024/03/21/parkinsons-classification.html)
 - Developed a predictive model for Parkinson's severity using boosted tree models with feature engineering, resulting in significant improvement in F1 score and recall.
 #### [Understanding Alcohol Product Relationships Using Association Rule Learning](https://dagartga.github.io/2024/03/08/association-rule-learning.html)
@@ -49,18 +49,18 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 ### Streamlit Apps
 
 #### [Parkinsons Severity Prediction](https://boosted-models-for-parkinsons-prediction.streamlit.app/)
-- Boosted Tree models for predicting the maximum severity of Parkinsons for clinical patients based on their protein and peptide mass spectrometry quantities.
-- Explainable results using Feature Importance for each patient and a description of the top proteins.
+- **Boosted tree models** for predicting the maximum severity of Parkinsons for clinical patients based on their protein and peptide mass spectrometry quantities.
+- Explainable results using **Feature Importance** for each patient and a description of the top proteins.
   
 #### [Salifort Motors Employee Retention Prediction](https://salifort-motors-employee-retention.streamlit.app/)
-- Uses an XGBoost Classifier to predict how likely an employee will leave based on the HR data.
-- Provides SHAP values to explain the probability score assigned to the employee.
+- Uses an **XGBoost Classifier** to predict how likely an employee will leave based on the HR data.
+- Provides **SHAP values** to explain the probability score assigned to the employee.
 
 ### Deep Learning Project
 
 #### [Transfer Learning for X-Ray Image Classification](https://github.com/dagartga/Transfer_Learning_X-Ray_Classification)
 - Used **DenseNet-201** pre-trained neural network and fine-tuned **one hidden layer** with 4096 nodes and 30% dropout for regularization.
-- Solved imbalanced target distribution using class weights to the parameters for the neural network.
+- Solved imbalanced target distribution using **class weights** to the parameters for the neural network.
 - Applied hyperparameter tuning of # of hidden layers, nodes, learning rate, batch size, learning rate decay, and momentum to find optimal values.
 - Final Test Statistics:
     - **AUC:** 0.990
