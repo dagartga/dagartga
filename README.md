@@ -35,7 +35,7 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 - My main portfolio website that contains the following data science projects
 #### [Quantifying Sales Uplift with Causal Impact Analysis](https://dagartga.github.io/2024/03/10/causal-impact.html)
 - Analyzed the impact of a "Delivery Club" special on sales for a grocery retailer using a Python causal impact library, revealing a **41.1% uplift in sales**.
-#### [Web App for Parkinson's Prediction using Boosted Models](https://dagartga.github.io/2024/03/21/parkinsons-classification.html)
+#### [Web App for Parkinson's Prediction using Boosted Models](https://dagartga.github.io/2024/03/09/parkinsons-classification.html)
 - Developed a predictive model for Parkinson's severity using boosted tree models with feature engineering, resulting in significant improvement in F1 score and recall.
 #### [Understanding Alcohol Product Relationships Using Association Rule Learning](https://dagartga.github.io/2024/03/08/association-rule-learning.html)
 - Analyzed customer buying patterns to uncover product relationships in alcohol retail, revealing insights about customer preferences.
