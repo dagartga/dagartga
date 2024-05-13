@@ -6,7 +6,7 @@ I am a dedicated Data Scientist based in Los Angeles with a passion for solving 
 
 **Programming:** Python, SQL
 
-**Tools & Technologies:** Git, Linux, AWS, Databricks
+**Tools & Technologies:** Git, AWS, Databricks
 
 **Data Manipulation & Analysis:** Pandas, Numpy, Statsmodels, SciPy
 
