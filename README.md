@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a dedicated Data Scientist based in Los Angeles with a passion for solving business problems through Data Science techniques and effectively communicating insights to stakeholders using visualizations. With a systematic and creative approach, I consistently aim to add tangible value to teams, businesses, and end-users. I am committed to continuous learning and self-improvement.
+I am a dedicated Data Scientist, who also has over 12 years of Life Science experience, based in Los Angeles with a passion for solving business problems through Data Science techniques and effectively communicating insights to stakeholders using visualizations. With a systematic and creative approach, I consistently aim to add tangible value to teams, businesses, and end-users. I am committed to continuous learning and self-improvement.
 
 ### Technical Skills
 
