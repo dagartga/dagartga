@@ -1,24 +1,43 @@
-## Hi there 👋
+## Hi, I'm Dagart 👋
 
-I am a dedicated Data Scientist, who also has over 12 years of Life Science experience, based in Los Angeles with a passion for solving business problems through Data Science techniques and effectively communicating insights to stakeholders using visualizations. With a systematic and creative approach, I consistently aim to add tangible value to teams, businesses, and end-users. I am committed to continuous learning and self-improvement.
+I’m a Causal Marketing Measurement Scientist specializing in Bayesian Marketing Mix Modeling (PyMC), geo-based incrementality testing, and budget optimization.
 
-### Technical Skills
+I build and operationalize scalable MMM frameworks that translate complex posterior outputs into real-world media investment decisions. My work focuses on experiment-anchored modeling, hierarchical geo-level MMMs, and turning decision science into repeatable systems.
 
-**Programming:** Python, SQL
+### Current Focus
 
-**Tools & Technologies:** Git, AWS, Databricks
+- Bayesian hierarchical MMM in PyMC  
+- Geo holdout experiment design  
+- Incrementality calibration of MMM  
+- Budget optimization under uncertainty  
+- Scalable modeling workflows and automation  
 
-**Data Manipulation & Analysis:** Pandas, Numpy, Statsmodels, SciPy
 
-**Visualization:** Tableau, Seaborn, Matplotlib
+### Technical Stack
 
-**Machine Learning & Deep Learning:** PySpark, SparkSQL, TensorFlow, XGBoost
+**Causal & Econometric Modeling**
+- Bayesian MMM (PyMC)
+- Hierarchical modeling
+- Bayesian Structural Time Series (CausalImpact)
+- Incrementality testing & geo experiments
+- Budget optimization & scenario modeling
 
-**Statistical Analysis:** A/B Testing, Regression (Linear, Logistic), Classification, Clustering, PCA, Forecasting, Anomaly Detection
+**Programming**
+- Python (PyMC, ArviZ, Pandas, NumPy)
+- SQL
 
-**Model Interpretation:** SHAP, Interpretability Techniques
+**Cloud & Data**
+- Google BigQuery
+- AWS
+- Databricks
+- MLFlow
 
-**Model Deployment:** Docker, Flask, Streamlit
+**Visualization & Communication**
+- Matplotlib
+- Seaborn
+- Plotly
+- Tableau
+
 
 <br>
 
@@ -73,14 +92,5 @@ Research, Communication, Accountability, Initiative, Collaboration, Critical Thi
 <!--
 **dagartga/dagartga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
